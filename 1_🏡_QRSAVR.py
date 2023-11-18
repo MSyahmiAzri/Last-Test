@@ -10,7 +10,7 @@ st.header('Senarai QR SAVR QR03')
 #st.subheader('Please fill in the form below')
 
 st.sidebar.markdown('''
-Created with 💔 by SyuhadaAdila.
+Created with 💔 by Syahmi.
 ''')
 
 excel_file = 'QR SAVR B4 BBB 2023.xlsx'
